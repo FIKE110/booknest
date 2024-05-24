@@ -1,6 +1,7 @@
 import React from 'react'
-import FormInput from '../component/FormInput'
+import FormInput from '../../component/FormInput'
 import Link from 'next/link'
+import Header from '../../component/Header'
 
 const page = () => {
   return (
